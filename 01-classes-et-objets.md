@@ -279,7 +279,7 @@ $truck->drive(500);
 
 ### Maintenance facilitée
 
-Si je veux changer la façon dont fonctionne le calcul de consommation, je n'est qu'à modifier la méthode `drive()` dans la classe, et tous tes véhicules utilisent automatiquement la nouvelle logique.
+Si je veux changer la façon dont fonctionne le calcul de consommation, je n'est qu'à modifier la méthode `drive()` dans la classe, et tous mes véhicules utilisent automatiquement la nouvelle logique.
 
 ---
 

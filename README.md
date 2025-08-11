@@ -20,7 +20,5 @@ Ces fiches permettent de :
 
 - [Formation POO - Grafikart](https://grafikart.fr/formations/programmation-objet-php)
 - [TP POO - Grafikart](https://grafikart.fr/formations/mise-pratique-poo)
-- [SQL - Grafikart](https://grafikart.fr/formations/apprendre-sql)
-- [Tests avec Symfony - Grafikart](https://grafikart.fr/formations/symfony-tests)
 
 ---

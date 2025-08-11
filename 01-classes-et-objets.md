@@ -1,13 +1,5 @@
 # Classes et Objets en PHP
 
-## Informations générales
-- **Sujet** : Introduction aux Classes et Objets
-- **Langage** : PHP 8.x
-- **Niveau** : Junior
-- **Concepts** : Instanciation, Propriétés, Méthodes
-
----
-
 ## Pourquoi utiliser les objets ?
 
 En PHP, on manipule principalement des types scalaires comme les nombres, les chaînes de caractères, les booléens, ainsi que des types composés comme les tableaux.

@@ -8,6 +8,7 @@ Elles sont conçues pour être claires, concises et illustrées d'exemples concr
 - [**01-classes-et-objets.md**](https://github.com/younes-bkb/POO-Programmation-oriente-objet/blob/main/01-classes-et-objets.md) : Introduction aux classes et aux objets
 - [**02-public-private.md**](https://github.com/younes-bkb/POO-Programmation-oriente-objet/blob/main/02-public-private.md) : Visibilité des propriétés et méthodes (`public`, `private`, `protected`)
 - [**03-statiques.md**](https://github.com/younes-bkb/POO-Programmation-oriente-objet/blob/main/03-statiques.md) : Propriétés et méthodes statiques
+- [**04-heritage.md**](https://github.com/younes-bkb/POO-Programmation-oriente-objet/blob/main/04-heritage.md) : Réutiliser et étendre le code
 
 ## 🎯 Objectif
 

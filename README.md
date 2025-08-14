@@ -9,6 +9,7 @@ Elles sont conçues pour être claires, concises et illustrées d'exemples concr
 - [**02-public-private.md**](https://github.com/younes-bkb/POO-Programmation-oriente-objet/blob/main/02-public-private.md) : Visibilité des propriétés et méthodes (`public`, `private`, `protected`)
 - [**03-statiques.md**](https://github.com/younes-bkb/POO-Programmation-oriente-objet/blob/main/03-statiques.md) : Propriétés et méthodes statiques
 - [**04-heritage.md**](https://github.com/younes-bkb/POO-Programmation-oriente-objet/blob/main/04-heritage.md) : Réutiliser et étendre le code
+- [**05-autoloading.md**](https://github.com/younes-bkb/POO-Programmation-oriente-objet/blob/main/05-autoloading.md) : Charger vos classes automatiquement
 
 ## 🎯 Objectif
 

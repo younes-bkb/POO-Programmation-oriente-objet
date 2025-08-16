@@ -13,7 +13,8 @@ Elles sont conçues pour être claires, concises et illustrées d'exemples concr
 - [**06-classes-abstraites-et-interfaces.md**](https://github.com/younes-bkb/POO-Programmation-oriente-objet/blob/main/06-classes-abstraites-et-interfaces.md) : Des plans et des contrats
 - [**07-polymorphisme.md**](https://github.com/younes-bkb/POO-Programmation-oriente-objet/blob/main/07-polymorphisme.md) : Agir différemment sur des objets similaires
 - [**08-namespaces.md**](https://github.com/younes-bkb/POO-Programmation-oriente-objet/blob/main/08-namespaces.md) : Organiser votre code
-- [**09-traits.md**](https://github.com/younes-bkb/POO-Programmation-oriente-objet/blob/main/09-traits.md) : Organiser votre code
+- [**09-traits.md**](https://github.com/younes-bkb/POO-Programmation-oriente-objet/blob/main/09-traits.md) : Partager du code horizontalement
+- [**10-composition.md**](https://github.com/younes-bkb/POO-Programmation-oriente-objet/blob/main/10-composition.md) : Préférer "Avoir un" à "Être un"
 
 ## 🎯 Objectif
 

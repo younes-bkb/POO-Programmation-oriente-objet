@@ -23,9 +23,4 @@ Ces fiches permettent de :
 - S'initier ou se perfectionner sur des notions clés
 - Disposer d'exemples pratiques pour mieux assimiler les concepts
 
-## 🔗 Ressources utiles
-
-- [Formation POO - Grafikart](https://grafikart.fr/formations/programmation-objet-php)
-- [TP POO - Grafikart](https://grafikart.fr/formations/mise-pratique-poo)
-
 ---
